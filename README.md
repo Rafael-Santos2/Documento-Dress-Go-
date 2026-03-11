@@ -29,4 +29,4 @@ Atualmente, o controle de roupas e usuarios e feito de forma manual e pouco inte
 * Victor Seraco
 
 ## Licenca
-Este projeto e para fins academicos.
+Este projeto é para fins academicos.
