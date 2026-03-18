@@ -86,6 +86,7 @@ Atualmente, o controle de roupas e usuários é feito de forma manual e pouco in
   - Pix
   - Boleto
   - Dinheiro
+  - Parcelamento
 - Status do pagamento:
   - Pendente
   - Aprovado
